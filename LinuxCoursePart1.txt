@@ -1,0 +1,28 @@
+Command Line Basics:
+•	Cal (current month)
+
+•	Date (current date and time)
+
+•	pwd (Print working directory, which is you current directory).
+
+•	Man (Manual).
+
+•	Cd (change directory).
+
+•	Exit (Terminate Bash session).
+
+•	Echo (print a message)
+
+•	Up arrow (Previous Command).
+
+•	Down arrow (To the empty Command Line).
+
+•	Mkdir (create a new directory, using “-” or “/”).
+
+•	Ls (List the elements of the current working directory).
+
+•	Exit ls (q).
+
+•	<<-“EOF” (Escape Echo statement).
+
+•	~ (Go back to original Directory).
