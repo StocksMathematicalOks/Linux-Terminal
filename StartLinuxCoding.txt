@@ -1,0 +1,7 @@
+•	Path of current location: pwd
+•	List elements inside of directory: ls
+•	Change Directory: cd PATH
+•	To move directory by one: cd..
+•	Creating a folder: mkdir “Name”
+•	Removing a Directory: rmdir PATH (Path of directory)
+•	Removing File: rm PATH (Path of file)
